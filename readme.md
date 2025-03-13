@@ -46,7 +46,9 @@ The project requires the following Python libraries:
 *   `pandas`: For data manipulation and analysis.
 
 You can install the necessary dependencies using pip:
-
+```shell
+pip install pandas
+```
 
 
 ## Usage
