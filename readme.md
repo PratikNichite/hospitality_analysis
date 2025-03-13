@@ -47,3 +47,22 @@ The project requires the following Python libraries:
 
 You can install the necessary dependencies using pip:
 
+
+
+## Usage
+
+To run the analysis, execute the Jupyter Notebook `hospitality_analysis.ipynb`. Ensure that the dataset files are located in the `datasets/` directory relative to the notebook.
+
+1.  Clone the repository:
+
+    ```
+    git clone [repository URL]
+    cd [repository directory]
+    ```
+2.  Install the dependencies:
+
+    ```
+    pip install pandas
+    ```
+3.  Open and run the Jupyter Notebook `hospitality_analysis.ipynb`.
+
