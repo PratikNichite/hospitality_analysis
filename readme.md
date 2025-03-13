@@ -1,4 +1,4 @@
-# Hospitality Analysis Project
+# Hospitality Analysis
 
 This project analyzes hospitality data to gain insights into booking trends, revenue generation, and hotel performance. The analysis is performed using Python and Pandas, leveraging several datasets to provide a comprehensive view of the hospitality business.
 
@@ -58,8 +58,8 @@ To run the analysis, execute the Jupyter Notebook `hospitality_analysis.ipynb`. 
 1.  Clone the repository:
 
     ```shell
-    git clone [repository URL]
-    cd [repository directory]
+    git clone https://github.com/PratikNichite/hospitality_analysis.git
+    cd hospitality_analysis
     ```
 2.  Install the dependencies:
 
