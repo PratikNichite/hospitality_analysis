@@ -32,3 +32,18 @@ The analysis begins with importing the necessary libraries and loading the datas
 
 The `fact_bookings.csv` dataset is read into a DataFrame named `df_bookings`, and its structure is examined using `.head()`, `.describe()`, and `.info()` methods.
 
+
+The exploration includes:
+
+*   Displaying the first few rows of the DataFrame.
+*   Generating descriptive statistics for numerical columns.
+*   Checking data types and missing values.
+
+## Dependencies
+
+The project requires the following Python libraries:
+
+*   `pandas`: For data manipulation and analysis.
+
+You can install the necessary dependencies using pip:
+
