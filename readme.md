@@ -57,14 +57,20 @@ To run the analysis, execute the Jupyter Notebook `hospitality_analysis.ipynb`. 
 
 1.  Clone the repository:
 
-    ```
+    ```shell
     git clone [repository URL]
     cd [repository directory]
     ```
 2.  Install the dependencies:
 
-    ```
+    ```shell
     pip install pandas
     ```
 3.  Open and run the Jupyter Notebook `hospitality_analysis.ipynb`.
 
+    ```shell
+    jupyter notebook hospitality_analysis.ipynb
+    ```
+
+
+Follow the notebook's instructions to reproduce the analysis and explore the insights.
